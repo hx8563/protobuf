@@ -1,4 +1,4 @@
-module github.com/gogo/protobuf
+module github.com/hx8563/protobuf
 
 go 1.15
 
