@@ -9,5 +9,5 @@ require (
 	golang.org/x/tools v0.0.0-20210106214847-113979e3529a // indirect
 )
 
-replace github.com/gogo/protobuf => github.com/hx8563/protobuf latest
+replace github.com/gogo/protobuf => github.com/hx8563/protobuf v1.3.7
 
